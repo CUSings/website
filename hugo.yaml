@@ -1,0 +1,18 @@
+baseURL: https://CUSings.org/
+languageCode: en-us
+title: "CU Sings: People's Chorus"
+theme:
+  - github.com/theNewDynamic/gohugo-theme-ananke
+params:
+  favicon: images/cropped-favicon.png
+  custom_css:
+    - css/overrides.css
+  site_logo: images/word-mark.png
+  ananke_socials:
+    - name: facebook
+      url: https://www.facebook.com/CUsingscollective
+# menus:
+#   main:
+#   - name: Home
+#     pageRef: /
+#     weight: 10
