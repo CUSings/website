@@ -2,14 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://CUSings.org/</loc>
+    <loc>https://cusings.github.io/website/</loc>
   </url><url>
-    <loc>https://CUSings.org/categories/</loc>
+    <loc>https://cusings.github.io/website/categories/</loc>
   </url><url>
-    <loc>https://CUSings.org/join/</loc>
+    <loc>https://cusings.github.io/website/join/</loc>
   </url><url>
-    <loc>https://CUSings.org/tags/</loc>
+    <loc>https://cusings.github.io/website/tags/</loc>
   </url><url>
-    <loc>https://CUSings.org/upcoming-concerts/</loc>
+    <loc>https://cusings.github.io/website/upcoming-concerts/</loc>
   </url>
 </urlset>
