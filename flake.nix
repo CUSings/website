@@ -28,15 +28,13 @@
                 pkgs.coreutils
               ];
               text = ''
+                set -ex
                 hash=$(git rev-parse --short HEAD)
                 date=$(date '+%Y-%M-%d %H:%M:%S')
-                mkdir public
-                git -C public pull https://github.com/CUSings/website.git
-                git switch gh-pages
                 hugo
-                git -C public add -A
-                git -C public commit -m "Update $date $hash"
-                git -C public push
+                git add -A docs
+                git commit -m "Build website $date $hash"
+                git push
               '';
             };
           };

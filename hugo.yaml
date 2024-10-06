@@ -1,6 +1,8 @@
-baseURL: https://CUSings.org/
+#baseURL: https://CUSings.org/
+baseURL: https://cusings.github.io/website/
 languageCode: en-us
 title: "CU Sings: People's Chorus"
+publishDir: docs
 theme:
   - github.com/theNewDynamic/gohugo-theme-ananke
 params:
