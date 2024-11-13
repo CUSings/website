@@ -2,24 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>CU Sings: People&#39;s Chorus</title>
-    <link>https://CUSings.org/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on CU Sings: People&#39;s Chorus</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="https://CUSings.org/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Join</title>
-      <link>https://CUSings.org/join/</link>
+      <link>http://localhost:1313/join/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://CUSings.org/join/</guid>
+      <guid>http://localhost:1313/join/</guid>
       <description>&lt;p&gt;Join Champaign-Urbana&amp;rsquo;s newest community choir!&#xA;We are a non-auditioned, high-achieving, inclusive chorus; ALL are welcome.&lt;/p&gt;&#xA;&lt;p&gt;We rehearse on Tuesday nights 5:30pm &amp;mdash; 8:00pm at the &lt;a href=&#34;https://maps.app.goo.gl/ugESNuaiutJja7xm7&#34;&gt;First United Methodist Church&lt;/a&gt; near Lincoln Square Mall.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Upcoming concerts</title>
-      <link>https://CUSings.org/upcoming-concerts/</link>
+      <title>Past concerts</title>
+      <link>http://localhost:1313/past-concerts/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://CUSings.org/upcoming-concerts/</guid>
-      <description>&lt;h2 id=&#34;a-new-dawn&#34;&gt;A New Dawn&lt;/h2&gt;&#xA;&lt;p&gt;The People&amp;rsquo;s Chorus, will present its fall concert, &amp;ldquo;A New Dawn,&amp;rdquo; on &lt;strong&gt;Saturday, October 19, 2024, at 3:00 PM&lt;/strong&gt; at the &lt;a href=&#34;https://maps.app.goo.gl/ugESNuaiutJja7xm7&#34;&gt;First United Methodist Church of Urbana&lt;/a&gt;.&#xA;The concert will highlight themes of hope, renewal, and unity, and will feature a special collaboration with Amasong, Champaign-Urbana’s premier Lesbian/Feminist Chorus under the direction of Heidi Weatherford, and the UU Church Choir, directed by Dr. M. Miguel Rowland.&lt;/p&gt;&#xA;&lt;p&gt;View our program &lt;a href=&#34;https://CUSings.org/programs/a-new-dawn.pdf&#34;&gt;here&lt;/a&gt; or buy tickets on &lt;a href=&#34;https://www.zeffy.com/en-US/ticketing/4919a640-03f3-4a67-a076-ec7679f6c94c&#34;&gt;Zeffy&lt;/a&gt;.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/past-concerts/</guid>
+      <description>&lt;h2 id=&#34;a-new-dawn&#34;&gt;A New Dawn&lt;/h2&gt;&#xA;&lt;p&gt;The People&amp;rsquo;s Chorus had a fall concert, &amp;ldquo;A New Dawn,&amp;rdquo; on October 19, 2024 in collaboration with Amasong and the UU Church Choir.&lt;/p&gt;&#xA;&lt;p&gt;View our program &lt;a href=&#34;http://localhost:1313/programs/a-new-dawn.pdf&#34;&gt;here&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Upcoming concerts</title>
+      <link>http://localhost:1313/upcoming-concerts/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/upcoming-concerts/</guid>
+      <description>&lt;h2 id=&#34;winter-concert&#34;&gt;Winter concert&lt;/h2&gt;&#xA;&lt;p&gt;More information TBD.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

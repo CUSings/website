@@ -6,3 +6,8 @@
 .cf {
   text-align: left;
 }
+
+h1.f1 {
+  /* h1.f1 is redundant, since the title gets placed twice by the template. */
+  display: none;
+}
