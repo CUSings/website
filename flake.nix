@@ -17,28 +17,6 @@
             ];
           };
         };
-        apps = {
-          publish = flake-utils.lib.mkApp {
-            drv = pkgs.writeShellApplication {
-              name = "script";
-              runtimeInputs = [
-                pkgs.git
-                pkgs.go
-                pkgs.hugo
-                pkgs.coreutils
-              ];
-              text = ''
-                set -ex
-                hash=$(git rev-parse --short HEAD)
-                date=$(date '+%Y-%M-%d %H:%M:%S')
-                hugo
-                git add -A docs
-                git commit -m "Build website $date $hash"
-                git push
-              '';
-            };
-          };
-        };
       }
     );
 }

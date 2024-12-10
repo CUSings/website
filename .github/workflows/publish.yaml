@@ -10,4 +10,9 @@ jobs:
 
     - uses: cachix/install-nix-action@v27
 
-    - run: nix develop
+    - run: nix develop --command hugo build
+
+    - uses: stefanzweifel/git-auto-commit-action@v5
+      with:
+        commit_message: "Build website from {{ github.sha }}"
+        file_pattern: 'docs/'
