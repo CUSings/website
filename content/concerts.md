@@ -10,7 +10,7 @@ cascade:
 
 [![](/images/light-and-joy.png)](https://shorturl.at/HHmZ3)
 
-Buy tickets on [Zeffy](https://shorturl.at/HHmZ3).
+{{< zeffy-button src="https://www.zeffy.com/embed/donation-form/35179d4e-f9f7-4b72-be70-4f493e52de5f" text="Buy tickets" >}}
 
 In the darkness at the ending of the year, there will be light and joy--and carols for all! Join CU Sings: People's Chorus for a musical celebration of the season, accompanied by:
 
@@ -30,3 +30,7 @@ The People's Chorus had a fall concert, "A New Dawn," on October 19, 2024 in col
 
 View our program [here](/programs/a-new-dawn.pdf)
 
+
+{{< rawhtml >}}
+<script src="https://zeffy-scripts.s3.ca-central-1.amazonaws.com/embed-form-script.min.js"></script>
+{{</ rawhtml >}}
