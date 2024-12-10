@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>CU Sings: People&#39;s Chorus</title>
-    <link>http://localhost:1313/</link>
+    <link>https://CUSings.org/</link>
     <description>Recent content on CU Sings: People&#39;s Chorus</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://CUSings.org/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
-      <link>http://localhost:1313/about/</link>
+      <link>https://CUSings.org/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/about/</guid>
+      <guid>https://CUSings.org/about/</guid>
       <description></description>
     </item>
     <item>
       <title>Concerts</title>
-      <link>http://localhost:1313/concerts/</link>
+      <link>https://CUSings.org/concerts/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/concerts/</guid>
-      <description>&lt;h1 id=&#34;upcoming-concerts&#34;&gt;Upcoming concerts&lt;/h1&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://shorturl.at/HHmZ3&#34;&gt;&lt;img src=&#34;http://localhost:1313/images/light-and-joy.png&#34; alt=&#34;&#34;&gt;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Buy tickets on &lt;a href=&#34;https://shorturl.at/HHmZ3&#34;&gt;Zeffy&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;In the darkness at the ending of the year, there will be light and joy&amp;ndash;and carols for all! Join CU Sings: People&amp;rsquo;s Chorus for a musical celebration of the season, accompanied by:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;The Unitarian Universalist Church CrUUners&lt;/li&gt;&#xA;&lt;li&gt;Sycamore Brass Ensemble with guest percussionists&lt;/li&gt;&#xA;&lt;li&gt;&amp;hellip;and special guest performer Ricardo Herrera!&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Carols for All will feature seasonal music from a variety of cultural traditions including Christmas, Hanukkah, Kwanzaa, Pagan, and secular/restorative justice-themed works.  You might even get to &amp;ldquo;jingle&amp;rdquo; a few bells along with us!&lt;/p&gt;</description>
+      <guid>https://CUSings.org/concerts/</guid>
+      <description>&lt;h1 id=&#34;upcoming-concerts&#34;&gt;Upcoming concerts&lt;/h1&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://shorturl.at/HHmZ3&#34;&gt;&lt;img src=&#34;https://CUSings.org/images/light-and-joy.png&#34; alt=&#34;&#34;&gt;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Buy tickets on &lt;a href=&#34;https://shorturl.at/HHmZ3&#34;&gt;Zeffy&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;In the darkness at the ending of the year, there will be light and joy&amp;ndash;and carols for all! Join CU Sings: People&amp;rsquo;s Chorus for a musical celebration of the season, accompanied by:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;The Unitarian Universalist Church CrUUners&lt;/li&gt;&#xA;&lt;li&gt;Sycamore Brass Ensemble with guest percussionists&lt;/li&gt;&#xA;&lt;li&gt;&amp;hellip;and special guest performer Ricardo Herrera!&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Carols for All will feature seasonal music from a variety of cultural traditions including Christmas, Hanukkah, Kwanzaa, Pagan, and secular/restorative justice-themed works.  You might even get to &amp;ldquo;jingle&amp;rdquo; a few bells along with us!&lt;/p&gt;</description>
     </item>
     <item>
       <title>Join</title>
-      <link>http://localhost:1313/join/</link>
+      <link>https://CUSings.org/join/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/join/</guid>
+      <guid>https://CUSings.org/join/</guid>
       <description>&lt;p&gt;Join Champaign-Urbana&amp;rsquo;s newest community choir!&#xA;We are a non-auditioned, high-achieving, inclusive chorus; &lt;em&gt;all&lt;/em&gt; are welcome.&lt;/p&gt;&#xA;&lt;p&gt;We rehearse on Tuesday nights 5:30pm &amp;mdash; 8:00pm at the &lt;a href=&#34;https://maps.app.goo.gl/ugESNuaiutJja7xm7&#34;&gt;First United Methodist Church&lt;/a&gt; near Lincoln Square Mall.&lt;/p&gt;</description>
     </item>
   </channel>
