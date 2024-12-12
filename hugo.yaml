@@ -15,7 +15,7 @@ params:
 menus:
   main:
   - name: Mailing List
-    url: https://forms.gle/DL6NeamoN5TZqF7C6
+    url: http://eepurl.com/i5tUGA
     weight: 11
   - name: Tickets
     url: https://shorturl.at/HHmZ3
