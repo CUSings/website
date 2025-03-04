@@ -8,9 +8,11 @@ cascade:
 
 # Upcoming concerts
 
-[![](/images/light-and-joy.png)](https://shorturl.at/HHmZ3)
+# Past concerts
 
-{{< zeffy-button src="https://www.zeffy.com/embed/donation-form/35179d4e-f9f7-4b72-be70-4f493e52de5f" text="Buy tickets" >}}
+## Light and Joy
+
+[![](/images/light-and-joy.png)](/programs/carols-for-all-2024.pdf)
 
 In the darkness at the ending of the year, there will be light and joy--and carols for all! Join CU Sings: People's Chorus for a musical celebration of the season, accompanied by:
 
@@ -18,9 +20,9 @@ In the darkness at the ending of the year, there will be light and joy--and caro
 - Sycamore Brass Ensemble with guest percussionists
 - ...and special guest performer Ricardo Herrera!
 
-Carols for All will feature seasonal music from a variety of cultural traditions including Christmas, Hanukkah, Kwanzaa, Pagan, and secular/restorative justice-themed works.  You might even get to "jingle" a few bells along with us!
+View our program [here](/programs/carols-for-all-2024.pdf)
 
-# Past concerts
+## A New Dawn
 
 ![A New Dawn concert banner](/images/a-new-dawn.png)
 
