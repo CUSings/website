@@ -8,7 +8,7 @@ cascade:
 
 # Upcoming concert: Rise In Harmony
 
-![](/images/rise-in-harmony.png)
+![](/images/rise-in-harmony.jpg)
 
 Join CU Sings: People's Chorus for a concert of hope and renewal, in collaboration with guest ensembles:
 
