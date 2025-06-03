@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>CU Sings</title>
-    <link href="https://cusings.org/feed.xml" rel="self" />
-    <link href="https://cusings.org" />
+    <link href="https://CUSings.github.io/ website/feed.xml" rel="self" />
+    <link href="https://CUSings.github.io/ website" />
     <updated>1969-12-31T18:00:00-06:00</updated>
     <author>
-        <name>CU Sings</name>
+        <name>CU Sings Admin</name>
     </author>
-    <id>https://cusings.org</id>
+    <id>https://CUSings.github.io/ website</id>
 
 </feed>
