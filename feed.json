@@ -2,11 +2,12 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "CU Sings",
     "description": "",
-    "home_page_url": "https://CUSings.github.io/ website",
-    "feed_url": "https://CUSings.github.io/ website/feed.json",
+    "home_page_url": "https://cusings.org",
+    "feed_url": "https://cusings.org/feed.json",
     "user_comment": "",
+    "icon": "https://cusings.org/media/website/cropped-favicon.png",
     "author": {
-        "name": "CU Sings Admin"
+        "name": "CU Sings"
     },
     "items": [
     ]
