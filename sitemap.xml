@@ -1,39 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="https://cusings.org/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https://CUSings.github.io/ website/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
-<loc>https://cusings.org/</loc>
-</url>
-<url>
-<loc>https://cusings.org/about/</loc>
-<lastmod>2025-04-13T14:43:49-05:00</lastmod>
-</url>
-<url>
-<loc>https://cusings.org/concerts/</loc>
-<lastmod>2025-05-01T01:21:50-05:00</lastmod>
-<image:image>
-<image:loc>https://cusings.org/media/posts/8/A-Place-of-Belonging-FB-and-Ticket-Image.jpg</image:loc>
-<image:title><![CDATA[]]></image:title>
-</image:image>
-<image:image>
-<image:loc>https://cusings.org/media/posts/8/Pizza-Palooza.jpg</image:loc>
-<image:title><![CDATA[Pizza Palooza banner]]></image:title>
-</image:image>
-<image:image>
-<image:loc>https://cusings.org/media/posts/8/rise-in-harmony.jpg</image:loc>
-<image:title><![CDATA[Rise in Harmony concert banner]]></image:title>
-</image:image>
-<image:image>
-<image:loc>https://cusings.org/media/posts/8/light-and-joy.png</image:loc>
-<image:title><![CDATA[Light and Joy concert banner]]></image:title>
-</image:image>
-<image:image>
-<image:loc>https://cusings.org/media/posts/8/IMG_6397.JPG</image:loc>
-<image:title><![CDATA[CU Sings: People's Chorus at their fall 2025 concert, A New Dawn]]></image:title>
-</image:image>
-</url>
-<url>
-<loc>https://cusings.org/join/</loc>
-<lastmod>2025-04-13T14:44:01-05:00</lastmod>
+<loc>https://CUSings.github.io/ website/</loc>
 </url>
 </urlset>
