@@ -5,8 +5,9 @@
     "home_page_url": "https://cusings.org",
     "feed_url": "https://cusings.org/feed.json",
     "user_comment": "",
+    "icon": "https://cusings.org/media/website/cropped-favicon.png",
     "author": {
-        "name": "Amy Frasca"
+        "name": "CU Sings"
     },
     "items": [
     ]
