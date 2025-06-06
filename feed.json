@@ -2,11 +2,11 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "CU Sings",
     "description": "",
-    "home_page_url": "https://CUSings.github.io/ website",
-    "feed_url": "https://CUSings.github.io/ website/feed.json",
+    "home_page_url": "https://cusings.org",
+    "feed_url": "https://cusings.org/feed.json",
     "user_comment": "",
     "author": {
-        "name": "CU Sings Admin"
+        "name": "Amy Frasca"
     },
     "items": [
     ]

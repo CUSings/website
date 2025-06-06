@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: https://CUSings.github.io/ website/sitemap.xml
+Sitemap: https://cusings.org/sitemap.xml
